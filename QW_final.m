@@ -1,6 +1,4 @@
-%%Code Ref: Mahesh N Jayakody and Asiri Nanayakkara, Full state revivals in higher dimensional quantum walks, 
-%Phys. Scr. 94 (2019) 045101.
-% E-mail: asiri@ifs.ac.lk
+
 
 
 clear;
